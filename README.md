@@ -1,0 +1,1 @@
+# pislot-rpi-hat
