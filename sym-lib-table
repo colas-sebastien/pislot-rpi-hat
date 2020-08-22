@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RPi_Hat-cache)(type Legacy)(uri /home/seb/Dev/libs/kicad/RPi_Hat-cache.lib)(options "")(descr "")(disabled))
+  (lib (name pislot_v2.0-rescue)(type Legacy)(uri ${KIPRJMOD}/pislot_v2.0-rescue.lib)(options "")(descr "")(disabled))
+)
